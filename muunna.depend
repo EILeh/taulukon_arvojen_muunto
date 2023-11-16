@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700120755 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\taulukon_arvojen_muunto\main.c
+	<stdio.h>
+	<math.h>
+	"muunna.h"
+
+1700125333 c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\taulukon_arvojen_muunto\muunna.h
+
+1700124888 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\taulukon_arvojen_muunto\muunna.c
+	<stdio.h>
+	<math.h>
+	"muunna.h"
+
